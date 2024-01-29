@@ -51,7 +51,10 @@ footer {
 .card {
   width: 45%;
 }
-
+.text-without-photo {
+  padding-left: 5px;
+  padding-right: 5px;
+}
 
 @media (max-width: 680px) {
   
